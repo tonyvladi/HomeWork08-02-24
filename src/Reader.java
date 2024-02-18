@@ -32,6 +32,7 @@ public class Reader {
         if(takenBooks.size()<10){
             takenBooks.add(b);
             System.out.println("Reader - " + getFullName() + " took : " + b.name);
+            System.out.println();
         }else{
             System.out.println(" Your limit of 10 books is reached,You have to return " +
                     "some books for taking other books");
@@ -47,8 +48,10 @@ public class Reader {
                 searchCounter++;
                 bookForDelete=b;
             }else {
-                System.out.println(getFullName() + "hasn't "
+                System.out.println(getFullName() + " hasn't the book - "
                         + name);
+                System.out.println();
+                break;
             }
         }
         if(searchCounter==1){
