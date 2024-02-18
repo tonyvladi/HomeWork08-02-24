@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43d12004-1baa-48dd-b65a-76ac66baf271" name="Changes" comment="First version">
-      <change afterPath="$PROJECT_DIR$/src/LibraryProgram.java" afterDir="false" />
+    <list default="true" id="43d12004-1baa-48dd-b65a-76ac66baf271" name="Changes" comment="extended version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reader.java" afterDir="false" />
@@ -36,9 +35,12 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="fd98c1cf-e96f-4f71-9622-cbaa121acb50" />
-        <option name="url" value="https://github.com/tonyvladi/HomeWork08-02-24" />
+        <option name="url" value="https://github.com/tonyvladi/HomeWork08-02-24.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -120,7 +122,7 @@
       <workItem from="1708018089399" duration="979000" />
       <workItem from="1708019079682" duration="327000" />
       <workItem from="1708019454844" duration="2622000" />
-      <workItem from="1708139638625" duration="9350000" />
+      <workItem from="1708139638625" duration="10374000" />
     </task>
     <task id="LOCAL-00001" summary="First version">
       <option name="closed" value="true" />
@@ -138,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708020346139</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="extended version">
+      <option name="closed" value="true" />
+      <created>1708279627998</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708279627998</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +201,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First version" />
-    <option name="LAST_COMMIT_MESSAGE" value="First version" />
+    <MESSAGE value="extended version" />
+    <option name="LAST_COMMIT_MESSAGE" value="extended version" />
   </component>
 </project>

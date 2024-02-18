@@ -65,8 +65,6 @@ public class Reader {
         return fullName;
     }
 
-
-
     public int getReaderNumber() {
         return readerNumber;
     }
